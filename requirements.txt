@@ -1,0 +1,7 @@
+tensorflow
+sklearn
+openpyxl
+xlutils
+matplotlib
+xlrd
+xlwt
